@@ -2,19 +2,19 @@ import os
 
 class Config:
 
-    BOT_TOKEN = ""
+    BOT_TOKEN = "7329971533:AAEvV-PDxF37g8QhtVzi5j0NxCAGpYY909g"
 
-    SESSION_NAME = ""
+    SESSION_NAME = "PXodic_bot"
 
-    API_ID = ""
+    API_ID = "26613027"
 
-    API_HASH = ""
+    API_HASH = "882995f126f29b4808c6396345f629f2"
 
-    CLIENT_ID = ""
+    CLIENT_ID = "501355669870-5ag66625sqfk1ilp4f01tns7ddptdula.apps.googleusercontent.com"
 
-    CLIENT_SECRET = ""
+    CLIENT_SECRET = "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"
 
-    AUTH_USERS = [942731625]
+    AUTH_USERS = [752714024]
 
     VIDEO_DESCRIPTION = ""
 
